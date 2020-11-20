@@ -1,7 +1,7 @@
- import { newskitLightTheme } from 'newskit';
+import {newskitLightTheme} from 'newskit';
 
 describe('test', () => {
-	it('runs slowly', () => {
-		var a = newskitLightTheme
-	})
+  it('runs slowly', () => {
+    var a = newskitLightTheme
+  })
 })
